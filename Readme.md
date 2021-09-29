@@ -1,13 +1,13 @@
-(*Nama Mahasiswa 	: Najma Attaqiya Alya**
+**Nama Mahasiswa 	: Najma Attaqiya Alya**
 
 
-**NIM		        : 162012133015*
+**NIM		        : 162012133015**
 
 
-**Prodi		        : Teknologi Sains Data*
+**Prodi		        : Teknologi Sains Data**
 
 
-**Matkul | Kelas	: Algoritma Pemrograman 2 | SD-A1*
+**Matkul | Kelas	: Algoritma Pemrograman 2 | SD-A1**
 
 
 
@@ -22,10 +22,10 @@ Langkah-langkah dalam menggunakan dan commit pada GitHub:
 **$ git config --global user.name "UsernameAnda"** -> Username pada GitHub
 
 
-**$ git config --global user.email <alamat email>*  -> Email yang terdaftar pada GitHub
+**$ git config --global user.email <alamat email>**  -> Email yang terdaftar pada GitHub
   
 
-**$ git config --list*  -> Memastikan proses login berhasil
+**$ git config --list**  -> Memastikan proses login berhasil
   
   
 3. Buat Repository Online dengan nama yang saya buat sesuai dengan nama pada folder directory lokal.
